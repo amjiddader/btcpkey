@@ -6,6 +6,8 @@
 # -------------------------------------
 # Make sure dependinces are installed
 # sudo python3 -m pip install --upgrade pip && pip3 install bit bip32utils
+# You can GET BTC ADDRESS FILE FROM INTERNET: https://github.com/Pymmdrza/Rich-Address-Wallet/releases/tag/Latest.Bitcoin
+# i.e: wget https://github.com/Pymmdrza/Rich-Address-Wallet/releases/download/Latest.Bitcoin/Latest_Bitcoin_Rich_Address.txt.rar
 # =====================================
 
 import requests, re, json, base58, random, os, sys, binascii, bip32utils, codecs, argparse
