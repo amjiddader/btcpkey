@@ -1,7 +1,7 @@
 # 
-#                                                                                     
-# Author: Amji Dader
-# Github : github.com/amjiddader
+# Modified Version of checker credit to Pymmdrza                                                                                     
+# Author: Pymmdrza
+# Github : github.com/Pymmdrza
 # Tool : BTC Private Key Checker V2
 # -------------------------------------
 # Make sure dependinces are installed
