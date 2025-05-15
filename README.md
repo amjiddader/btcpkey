@@ -6,7 +6,7 @@ sudo python3 -m pip install --upgrade pip && pip3 install bit bip32utils
 
 Then Download latest BTC address files. 
 ```
-run python3 Check.py 
+run python3 check.py 
 ```
 
 Example: python3 -r btc.txt -o found_key.txt -t 2
